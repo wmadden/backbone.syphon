@@ -477,8 +477,8 @@ For more information on Key Assignment Validators, see the full
 
 ## Current Limitations
 
-There some known limitations in Backbone.Syphon, partially by design and
-partially implemented as default behaviors. 
+There are some known limitations in Backbone.Syphon, partially by design and
+partially implemented as default behavior. 
 
 * You must have a `<form>` within your view's `$el`
 * An input of type `checkbox` will return a boolean value. This can be
